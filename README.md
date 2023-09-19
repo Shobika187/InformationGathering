@@ -30,13 +30,13 @@ http://www.whois.com/whois website to get detailed information about a domain na
 ## OUTPUT:
 ![image](https://github.com/Shobika187/InformationGathering/assets/94508142/89bb93fc-1412-43a9-8cc2-de4807a44a22)
 ### Finding IP address:
-ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
+Ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
 ```
 ping saveetha.ac.in
 ```
 ![image](https://github.com/Shobika187/InformationGathering/assets/94508142/e6730364-0022-4ad3-b50e-01a8300d5acf)
 ### Finding Hosting Company
-get further detail by using ip2location.com website.
+Get further detail by using ip2location.com website.
 ![image](https://github.com/Shobika187/InformationGathering/assets/94508142/f8e52e5e-6470-4140-a19f-3b57e9494a8b)
 ### History of the website:
 ### Output:
